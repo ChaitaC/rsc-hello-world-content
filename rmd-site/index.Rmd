@@ -1,6 +1,3 @@
-# R Markdown site
-
-BRANCH It has a link to [article](article.html) and [another](another.html).
 
 ---
 title: "Check CONNECT_CONTENT_SESSION_TOKEN"
@@ -8,6 +5,10 @@ output: html_document
 resource_files:
 - _site.yml
 ---
+# R Markdown site
+
+BRANCH It has a link to [article](article.html) and [another](another.html).
+
 
 ## CONNECT_CONTENT_SESSION_TOKEN Check
 
